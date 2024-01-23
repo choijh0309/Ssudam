@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://ifh.cc/g/foMwhL.jpg](https://github.com/codestates-seb/abc02_002/assets/118452650/bc5d9f05-6577-479d-8588-4659814b20bf)">
+  <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/bc5d9f05-6577-479d-8588-4659814b20bf">
 </p>
 <h3 align='center'> 쓰담(SSUDAM)은 쓰레기 담기의 줄인말로 
 <br>
