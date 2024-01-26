@@ -11,7 +11,11 @@
 - 프로젝트 이름 : 쓰담 (SSUDAM)
 - 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
 - 배포주소 : ~~[쓰담✨](http://ssdam.s3-website.ap-northeast-2.amazonaws.com/)~~ ‼️현재 배포 중단중‼️
+  
+<br>
 
+## 📋 백엔드 서비스 메뉴얼
+[SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
 <br><br>
 
 ## 🐮사이트 소개🐶
@@ -113,14 +117,6 @@
 ## 🧰 백엔드 아키텍처
 <img width="575" alt="Untitled" src="https://github.com/codestates-seb/abc02_002/assets/118452650/9f3d09b9-a135-456f-b237-08e392fc254c">
 
-<br>
-
-## 🧰 프론트 아키텍처
-
-<br>
-
-## 📋 백엔드 서비스 메뉴얼
-[SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
 
 <br><br>
 
