@@ -16,7 +16,23 @@
 
 ## 📋 백엔드 서비스 메뉴얼
 [SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
-<br><br>
+
+<br>
+
+## ✏️ 나의 역할
+- Spring Security를 활용한 CSR 방식 보안 기능 구축
+- JWT를 활용한 로그인 기능 구현
+- Redis를 활용한 로그아웃 기능 구현
+- OWASP ZAP을 활용한 취약점 테스트
+- 회원 가입 기능 구현
+- 마이페이지 기능 구현(조회, 수정, 삭제)
+- SMTP과 Thymeleaf를 활용한 회원 가입 이메일 전송
+- 슬라이스 테스트에 Mockito 적용
+- Spring Rest Docs를 이용한 API 문서 작성
+- 노션, 서류 관리
+- 프로젝트 일정 조율 및 관리
+
+<br>
 
 ## 🐮사이트 소개🐶
 
@@ -60,9 +76,7 @@
 | :---: | :---: |
 | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/7dda3383-2f5b-42f7-9274-031ab859841b" width="370" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/b1a2c74b-7f78-4d94-a0c9-6d86531b2809" width="370" height="200"/> |
 
-
-
-<br><br>
+<br>
 
 ## 👀 Team list
 
@@ -72,7 +86,7 @@
 |BE(팀장)|BE|BE|BE|
 |[hyezuu](https://github.com/hyezuu)|[sooani](https://github.com/sooani)|[choijh0309](https://github.com/choijh0309)|[eunhee78](https://github.com/eunhee78)|
 
-<br><br>
+<br>
 
 |**배정현**|**이혜원**|**안민주**|**김윤한**|
 |:--:|:--:|:--:|:--:|
@@ -80,16 +94,18 @@
 |FE(팀장)|FE|FE|FE|
 |[bjh0524](https://github.com/bjh0524)|[hyehye225](https://github.com/hyehye225)|[anminjoo](https://github.com/anminjoo)|[YunHanKIM](https://github.com/YunHanKIM)|
 
-
-<br><br>
+<br>
 
 ## 🛠 기술 스택
 ![image](https://github.com/codestates-seb/abc02_002/assets/118452650/60fc2529-6f19-4a69-932a-75c0549433e3)
+
+<br>
 
 ### 공통
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+
 <br>
     
 ### 백엔드
@@ -106,6 +122,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 <br>
 
 ### 프론트엔드
@@ -117,8 +134,7 @@
 ## 🧰 백엔드 아키텍처
 <img width="575" alt="Untitled" src="https://github.com/codestates-seb/abc02_002/assets/118452650/9f3d09b9-a135-456f-b237-08e392fc254c">
 
-
-<br><br>
+<br>
 
 ---------
 
