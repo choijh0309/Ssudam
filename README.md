@@ -19,6 +19,20 @@
 
 <br>
 
+## 🏃‍♂️기획의도
+- 코로나로 인한 비대면 상황을 거친 후 줄어든 사람들 간의 소통
+- 점점 더 악화되는 환경 문제에 이바지하기 위함
+- 운동은 하고싶은데 동기가 부족하거나, 작게나마 뿌듯함을 느끼고 싶은 분들, 지역 주민들과 함께 참여하고 건강 증진을 위한 운동 기회를 제공하기 위함
+
+<br> 
+
+## 🏃‍♀️목표 및 기대효과
+- 사회적으로 소통하며 활동량을 높인다.
+- 환경보호와 건강을 동시에 고려하는 활동으로 사용자들에게 지속 가능한 라이프 스타일의 중요성을 일깨운다.
+- 사용자들은 쓰레기 수거와 운동의 조합으로 건강한 라이프스타일을 즐기며 만족감을 느낄 수 있다.
+
+<br>
+
 ## ✏️ 나의 역할
 - Spring Security를 활용한 CSR 방식 보안 기능 구축
 - JWT를 활용한 로그인 기능 구현
@@ -31,50 +45,6 @@
 - Spring Rest Docs를 이용한 API 문서 작성
 - 노션, 서류 관리
 - 프로젝트 일정 조율 및 관리
-
-<br>
-
-## 🐮사이트 소개🐶
-
-| 메인 : 일반유저 | 메인 : 관리자 |
-| :---: | :---: |
-| <img src="https://github.com/hyezuu/suudam/assets/147456219/0e572cc9-e182-443d-a7bc-6746365909d3" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/50210814-0cfa-4d3c-9459-ed3d616f69a0" width="370" height="200"/> |
-
-| 메인 : 검색 | 메인 : 비로그인 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/99bb458d-5676-4d2d-be5c-09d3cf7f61c0" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/48a7a7d7-3ea5-4776-b13a-6df2f63d2e72" width="370" height="200"/> |
-
-| 모임글 등록 | 북마크 기능 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/03daf867-43ad-4d3d-97b7-1939f8d779dd" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/1de7774d-d871-41f1-b614-3aad6cabc1ce" width="370" height="200"/> |
-
-| 모임글 수정 | 모임글 삭제 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/88f257c8-4720-4d81-91e0-dc953035eafa" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/0dd96fbf-3576-40b2-bcc7-dd7ccf8d28c3" width="370" height="200"/> |
-
-| 참여 기능 | 댓글 등록 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/cc36ec60-e84c-4af4-9f7c-91cb85699c3d" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/ff6af06f-2e82-4909-93de-946d5230f56c" width="370" height="200"/> |
-
-| 댓글 삭제 | 대댓글 등록 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/1eb14cbc-7adb-4ea7-8404-e7f0185f1213" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/8e56e3f4-f719-4731-a59a-db9b4f3ea6f2" width="370" height="200"/> |
-
-| 후기 등록 | 후기 조회 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/7398a83a-60b1-440f-91d2-f1a239fad495" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/d3f1dd7f-1fae-4b56-b6de-a9039019315b" width="370" height="200"/> |
-
-| 후기 수정 삭제 | 관리자 페이지 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/f0801cec-58ef-437d-b8cd-091d76696f16" width="370" height="200"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/9c9a63a0-e57e-448a-bc28-76847f324cf6" width="370" height="200"/> |
-
-| 마이페이지 : 나의모임 | 마이페이지 : 나의 글/댓글 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/40b9a0ac-0e36-4456-8975-b57cdff6b4f8" width="370" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/b0bb509d-9f65-4be3-87ee-ca94558d8487" width="370" height="200"/> |
-
-| 마이페이지 : 북마크 | 회원 탈퇴 |
-| :---: | :---: |
-| <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/7dda3383-2f5b-42f7-9274-031ab859841b" width="370" height="210"/> | <img src="https://github.com/codestates-seb/abc02_002/assets/147456219/b1a2c74b-7f78-4d94-a0c9-6d86531b2809" width="370" height="200"/> |
 
 <br>
 
@@ -138,32 +108,31 @@
 
 ---------
 
-### **✔ branch 규칙**
+# 👀 FeedBack 
 
-- `main` : 메인 브랜치  
-- `dev` : 개발 병합 브랜치  
-- `be` : 백엔드 브랜치  
-- `be+xx` : 백엔드 개인 브랜치  
-- `fe` : 프론트 브랜치
-- `fe+xx` : 프론트엔드 개인 브랜치  
+## **🙋‍♀️ Strengths**
+1. **테스트 케이스 작성과 API 문서 자동화**
+   - API 문서를 자동화하기 위한 테스트 케이스를 작성하는 데 성공했습니다.
 
-<br>
+2. **보안 취약점 테스트 수행**
+   - 애플리케이션의 보안 취약점을 직접 테스트하여 안전성을 강조했습니다.
 
-### 🌟 커밋 컨벤션
-|이름|내용|
-|:--:|:--:|
-|✨ feat| 새로운 기능 추가|
-|🐛 fix| 버그 수정|
-|📝 docs| 문서 수정|
-|💡 comment| 필요한 주석 추가 및 변경|
-|🎨 style| 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우|
-|♻️ refactor| 코드 리팩토링|
-|🔧 update| 코드 업데이트 및 수정|
-|✅ test| 테스트 코드|
-|📦 chore| 빌드 업무 수정, 패키지 매니저 수정|
-|🔥 remove| 파일을 삭제하는 작업만 수행|
-|🚚 rename| 파일 혹은 폴더명을 수정하거나 옮김|
-|🚑 !HOTFIX| 급하게 치명적인 버그 고침|
-|💥 !BREAKING CHANGE| 커다란 API 변경|  
+3. **성능 테스트 수행**
+   - Apache Benchmark 툴을 이용한 성능 테스트를 통해 애플리케이션의 성능 향상을 확인하고 개선했습니다.
 
+4. **기본에 충실한 코드 구현**
+   - 수강 기간 동안 배운 기본 지식을 활용하여 간결하고 가독성 있는 코드를 구현했습니다.
+
+## **👩‍💻 Areas for Improvement**
+1. **비즈니스 로직에 대한 단위 테스트 작성**
+   
+2. **API 문서에 요청헤더 추가 (Access Token 등)**
+
+3. **WireMock을 사용한 외부 Api 요청/ 응답 테스트 진행**
+
+4. **Spring MVC의 캐싱 기능, JPA의 2차 캐시를 활용한 성능 향상**
+     
+5. **jpa.showsql 설정을 통한 로그확인 및 불필요한 쿼리 제거**
+     
+6. **간단한 매핑작업에 Java record를 활용하여 불변 객체 구현**
 
