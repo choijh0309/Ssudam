@@ -7,18 +7,6 @@
   
 <br>
 
-## 🚩 개요
-- 프로젝트 이름 : 쓰담 (SSUDAM)
-- 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
-- 배포주소 : ~~[쓰담✨](http://ssdam.s3-website.ap-northeast-2.amazonaws.com/)~~ ‼️현재 배포 중단중‼️
-  
-<br>
-
-## 📋 백엔드 서비스 메뉴얼
-[SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
-
-<br>
-
 ## ✏️ 나의 역할
 - Spring Security를 활용한 CSR 방식 보안 기능 구축
 - JWT를 활용한 로그인 기능 구현
@@ -105,6 +93,18 @@
 5. **jpa.showsql 설정을 통한 로그확인 및 불필요한 쿼리 제거**
      
 6. **간단한 매핑작업에 Java record를 활용하여 불변 객체 구현**
+
+<br>
+
+## 🚩 개요
+- 프로젝트 이름 : 쓰담 (SSUDAM)
+- 프로젝트 기간 : 2023.12.22 ~ 2024.01.23
+- 배포주소 : ~~[쓰담✨](http://ssdam.s3-website.ap-northeast-2.amazonaws.com/)~~ ‼️현재 배포 중단중‼️
+  
+<br>
+
+## 📋 백엔드 서비스 메뉴얼
+[SSUDAM 백엔드 서비스 메뉴얼 ✨](https://gregarious-diagram-be0.notion.site/SSUDAM-a654f4266fcf4111b404737bf1ff1b31?pvs=4)
 
 <br>
 
