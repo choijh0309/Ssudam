@@ -19,20 +19,6 @@
 
 <br>
 
-## 🏃‍♂️기획의도
-- 코로나로 인한 비대면 상황을 거친 후 줄어든 사람들 간의 소통
-- 점점 더 악화되는 환경 문제에 이바지하기 위함
-- 운동은 하고싶은데 동기가 부족하거나, 작게나마 뿌듯함을 느끼고 싶은 분들, 지역 주민들과 함께 참여하고 건강 증진을 위한 운동 기회를 제공하기 위함
-
-<br> 
-
-## 🏃‍♀️목표 및 기대효과
-- 사회적으로 소통하며 활동량을 높인다.
-- 환경보호와 건강을 동시에 고려하는 활동으로 사용자들에게 지속 가능한 라이프 스타일의 중요성을 일깨운다.
-- 사용자들은 쓰레기 수거와 운동의 조합으로 건강한 라이프스타일을 즐기며 만족감을 느낄 수 있다.
-
-<br>
-
 ## ✏️ 나의 역할
 - Spring Security를 활용한 CSR 방식 보안 기능 구축
 - JWT를 활용한 로그인 기능 구현
@@ -45,24 +31,6 @@
 - Spring Rest Docs를 이용한 API 문서 작성
 - 노션, 서류 관리
 - 프로젝트 일정 조율 및 관리
-
-<br>
-
-## 👀 Team list
-
-|**강혜주**|**김수안**|**최준하**|**조은희**|
-|:--:|:--:|:--:|:--:|
-|<img src="https://github.com/codestates-seb/abc02_002/assets/118452650/f316cf92-de9c-472b-80b3-8e98eae90e93" width="150px" height="150px">|<img src="https://github.com/codestates-seb/abc02_002/assets/118452650/ae043c41-5b33-4a5c-a7ab-0af2ca31cd06" width="150px" height="150px"> | <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/6c1cc0e2-8455-4044-a71b-4fab234faa9f" width="150px" height="150px"> | <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/e118b13e-d2e7-4e52-81ef-c35bed264eb6" width="150px" height="150px">|
-|BE(팀장)|BE|BE|BE|
-|[hyezuu](https://github.com/hyezuu)|[sooani](https://github.com/sooani)|[choijh0309](https://github.com/choijh0309)|[eunhee78](https://github.com/eunhee78)|
-
-<br>
-
-|**배정현**|**이혜원**|**안민주**|**김윤한**|
-|:--:|:--:|:--:|:--:|
-|<img src="https://i.namu.wiki/i/dCfctGiBtIhlNvrYVKHez9BMIyUZAwd5-N35oTRXxuZs_KRkDOK9laZuXxcf2IJmlA6kVInSeQ7h5XjGS3MUuc_eAanFwTPQ1OkuuS80kwp8gYrbYIguJMvLqlxYntSMRY2UFlZLuSk8erpT40dfNw.webp" width="150px" height="150px">|<img src="https://i.namu.wiki/i/srbCqpZfNdcLJfOm91Z9BAncS862x9vsQPx0U5l62Y7yBz23iexnelKuZ8916D2NkEtQv5emlPMUGZczv6gZTelexPgnJSSdXbntOUtMUaxQrkpNUnCWv2GwM-FGQm4h76CWIy8i2RJX39Y-cA3qOg.webp" width="150px" height="150px"> |<img src="https://static.wikia.nocookie.net/catchteeniepin/images/5/58/Sandping_render_1.png/revision/latest?cb=20231104013915" width="140px" height="140px"> |<img src="https://postfiles.pstatic.net/MjAyMjA2MjBfMjgy/MDAxNjU1NzEyNTM3OTc4.I4oQofjsZsjhPim9lSrhhlQn6yz91Rr9p1cICafjPt4g.sjqLPeofHTzVZeOfYtxrz0gw2SHRqqCIsTR1dcBhBfAg.PNG.0104849/2022-06-20_17;08;23.PNG?type=w773" width="150px" height="150px">|
-|FE(팀장)|FE|FE|FE|
-|[bjh0524](https://github.com/bjh0524)|[hyehye225](https://github.com/hyehye225)|[anminjoo](https://github.com/anminjoo)|[YunHanKIM](https://github.com/YunHanKIM)|
 
 <br>
 
@@ -136,3 +104,36 @@
      
 6. **간단한 매핑작업에 Java record를 활용하여 불변 객체 구현**
 
+<br>
+
+## 🏃‍♂️기획의도
+- 코로나로 인한 비대면 상황을 거친 후 줄어든 사람들 간의 소통
+- 점점 더 악화되는 환경 문제에 이바지하기 위함
+- 운동은 하고싶은데 동기가 부족하거나, 작게나마 뿌듯함을 느끼고 싶은 분들, 지역 주민들과 함께 참여하고 건강 증진을 위한 운동 기회를 제공하기 위함
+
+<br> 
+
+## 🏃‍♀️목표 및 기대효과
+- 사회적으로 소통하며 활동량을 높인다.
+- 환경보호와 건강을 동시에 고려하는 활동으로 사용자들에게 지속 가능한 라이프 스타일의 중요성을 일깨운다.
+- 사용자들은 쓰레기 수거와 운동의 조합으로 건강한 라이프스타일을 즐기며 만족감을 느낄 수 있다.
+
+<br>
+
+## 👀 Team list
+
+|**강혜주**|**김수안**|**최준하**|**조은희**|
+|:--:|:--:|:--:|:--:|
+|<img src="https://github.com/codestates-seb/abc02_002/assets/118452650/f316cf92-de9c-472b-80b3-8e98eae90e93" width="150px" height="150px">|<img src="https://github.com/codestates-seb/abc02_002/assets/118452650/ae043c41-5b33-4a5c-a7ab-0af2ca31cd06" width="150px" height="150px"> | <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/6c1cc0e2-8455-4044-a71b-4fab234faa9f" width="150px" height="150px"> | <img src="https://github.com/codestates-seb/abc02_002/assets/118452650/e118b13e-d2e7-4e52-81ef-c35bed264eb6" width="150px" height="150px">|
+|BE(팀장)|BE|BE|BE|
+|[hyezuu](https://github.com/hyezuu)|[sooani](https://github.com/sooani)|[choijh0309](https://github.com/choijh0309)|[eunhee78](https://github.com/eunhee78)|
+
+<br>
+
+|**배정현**|**이혜원**|**안민주**|**김윤한**|
+|:--:|:--:|:--:|:--:|
+|<img src="https://i.namu.wiki/i/dCfctGiBtIhlNvrYVKHez9BMIyUZAwd5-N35oTRXxuZs_KRkDOK9laZuXxcf2IJmlA6kVInSeQ7h5XjGS3MUuc_eAanFwTPQ1OkuuS80kwp8gYrbYIguJMvLqlxYntSMRY2UFlZLuSk8erpT40dfNw.webp" width="150px" height="150px">|<img src="https://i.namu.wiki/i/srbCqpZfNdcLJfOm91Z9BAncS862x9vsQPx0U5l62Y7yBz23iexnelKuZ8916D2NkEtQv5emlPMUGZczv6gZTelexPgnJSSdXbntOUtMUaxQrkpNUnCWv2GwM-FGQm4h76CWIy8i2RJX39Y-cA3qOg.webp" width="150px" height="150px"> |<img src="https://static.wikia.nocookie.net/catchteeniepin/images/5/58/Sandping_render_1.png/revision/latest?cb=20231104013915" width="140px" height="140px"> |<img src="https://postfiles.pstatic.net/MjAyMjA2MjBfMjgy/MDAxNjU1NzEyNTM3OTc4.I4oQofjsZsjhPim9lSrhhlQn6yz91Rr9p1cICafjPt4g.sjqLPeofHTzVZeOfYtxrz0gw2SHRqqCIsTR1dcBhBfAg.PNG.0104849/2022-06-20_17;08;23.PNG?type=w773" width="150px" height="150px">|
+|FE(팀장)|FE|FE|FE|
+|[bjh0524](https://github.com/bjh0524)|[hyehye225](https://github.com/hyehye225)|[anminjoo](https://github.com/anminjoo)|[YunHanKIM](https://github.com/YunHanKIM)|
+
+<br>
